@@ -1,0 +1,8 @@
+# The Vibration of Simple Pendulum
+#### Pan Yue
+#### School of Physics and Technology, Wuhan University, Wuhan 430072, China)
+
+### Abstract:  The article discusses four kinds of idealized models to find the differences between the different ways to calculate the relationship between simple pendulum amplitude and time. Then, I will increase the complexity of the model by means of increasing the damping coefficient,increasing the pressure and adding non-linear solution. I will choose one of these ways to have a discussion of simple pendulum movement.
+### Keywords:  vibration; pendulum; Euler Method; Euler-Cromer Method; Second-order Runge-Kutta Method; Verlet Method
+
+## Introduction
